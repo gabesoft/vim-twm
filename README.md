@@ -1,1 +1,1 @@
-# Tiled window manager for vim
+# Window management commands and shortcuts
