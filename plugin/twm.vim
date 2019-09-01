@@ -9,7 +9,7 @@ noremap <LEFT>  3<C-W><
 noremap <UP>    3<C-W>-
 noremap <DOWN>  3<C-W>+
 
-nnoremap <leader>h :topleft vsplit<CR>
-nnoremap <leader>l :botright vsplit<CR>
-nnoremap <leader>j :botright split<CR>
-nnoremap <leader>k :topleft split<CR>
+" nnoremap <leader>h :topleft vsplit<CR>
+" nnoremap <leader>l :botright vsplit<CR>
+" nnoremap <leader>j :botright split<CR>
+" nnoremap <leader>k :topleft split<CR>
